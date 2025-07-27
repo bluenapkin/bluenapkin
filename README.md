@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Nawaf!
 
-<!--
-**bluenapkin/bluenapkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 A software engineering student and aspiring full-stack developer sharing my journey in tech  
+🎓 Studying **Software Engineering** at the University of Technology and Applied Sciences – Mussanah  
+💡 I create content about coding, tech tips, and learning Java on [YouTube](https://www.youtube.com/@abohoney)  
+🛠️ Currently building projects with **Java**, **Flutter**, **Firebase**, and learning **React**  
+🌱 Learning in public and improving one project at a time  
+📊 Exploring Git, UI/UX, and app design to level up my skills  
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📺 [YouTube – @abohoney](https://www.youtube.com/@abohoney)
+- 💼 LinkedIn: 
+- 📸 Instagram: [@mninf]([https://instagram.com/your_instagram](https://www.instagram.com/mninf/))
+
